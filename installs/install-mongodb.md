@@ -1,5 +1,7 @@
 # Установка MongoDB Server в ОС Windows
 
+![MongoDBLogo](https://github.com/svasorcery/know-how-to/blob/master/images/mongodb-logo.png)
+
 ### Установка сервера
 1. Скачать дистрибутив сервера с оф. сайта: https://www.mongodb.com/download-center ;
 2. Установить в стандартную папку (`C:\Program Files\MongoDB\Server`);
