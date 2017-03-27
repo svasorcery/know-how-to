@@ -19,7 +19,7 @@
 
 ### Шаг 2: Добавление файла манифеста
 
-- [Скачать](https://github.com/svasorcery/know-how-to/blob/master/files/photoshop.exe.manifest) файл манифеста на диск;
+- [Скачать файл](https://github.com/svasorcery/know-how-to/blob/master/files/photoshop.exe.manifest) манифеста на диск;
 - Открыть каталог программы от Adobe, например, Photoshop: `C:\Program Files\Adobe\Photoshop`;
 - Скопировать файл в каталог программы;
 - Задать имя файла следующим образом: `<имя_исполняемого_файла_программы>.exe.manifest`. В нашем примере это: `photoshop.exe.manifest`;
