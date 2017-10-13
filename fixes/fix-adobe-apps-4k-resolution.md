@@ -14,7 +14,7 @@
 - Задать значение: `1` и выбрать тип `Decimal (Десятичное)`;
 
 ###### *Вариант Б:*
-- [Скачать файл](https://github.com/svasorcery/know-how-to/blob/master/files/adobe-4k-monitor-fix.reg) и запустить, согласившись на внесение изменени в реестр Windows;
+- [Скачать файл](https://github.com/svasorcery/know-how-to/blob/master/files/adobe-4k-monitor-fix.reg) и запустить, согласившись на внесение изменений в реестр Windows;
 
 
 ### Шаг 2: Добавление файла манифеста
