@@ -3,7 +3,7 @@
 ![NodeJSLogo](https://github.com/svasorcery/know-how-to/blob/master/images/nodejs-logo.png)
 
 ### Установка
-1. Выбрать нужную платформу и скачать дистрибутив с оф. сайта: ```https://nodejs.org/en/download/```;
+1. Выбрать нужную платформу и скачать дистрибутив с оф. сайта: https://nodejs.org/en/download;
 2. Установить;
 
 ### Обновление NPM
