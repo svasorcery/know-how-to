@@ -11,4 +11,4 @@ Know how to ...
 #### ... [install NodeJS](install/node-js.md)
 #### ... [install MongoDB Server](install/mongodb-server-on-windows.md)
 #### ... [install RabbitMQ Server](install/rabbitmq-server.md)
-#### ... [fix displaying Adobe apps on a monitor with 4k UltraHD resolution](fix/adobe-apps-in-ultrahd)
+#### ... [fix displaying Adobe apps on a monitor with 4k UltraHD resolution](fix/adobe-apps-in-ultrahd.md)
