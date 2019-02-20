@@ -12,3 +12,4 @@ Know how to ...
 #### ... [install MongoDB Server](install/mongodb-server-on-windows.md)
 #### ... [install RabbitMQ Server](install/rabbitmq-server.md)
 #### ... [fix displaying Adobe apps on a monitor with 4k UltraHD resolution](fix/adobe-apps-in-ultrahd.md)
+#### ... [fix the file with a path too long to be deleted](fix/file-path-too-long-to-be-deleted.md)
